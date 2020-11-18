@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa625815-35f4-41f5-9d48-5b1f380435da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myscript.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kShW8fdb2xaoqnf53uBurBUQCp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa625815-35f4-41f5-9d48-5b1f380435da" name="Default Changelist" comment="" />
+      <created>1605699930943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605699930943</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="41" width="1024" height="852" key="#Project_Structure" timestamp="1605699933146">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="319" y="41" width="1024" height="852" key="#Project_Structure/72.27.1528.873@72.27.1528.873" timestamp="1605699933146" />
+    <state x="607" y="207" width="447" height="520" key="FileChooserDialogImpl" timestamp="1605701852103">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="607" y="207" width="447" height="520" key="FileChooserDialogImpl/72.27.1528.873@72.27.1528.873" timestamp="1605701852103" />
+    <state x="688" y="363" width="295" height="207" key="Github.ShareDialog" timestamp="1605702018697">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="688" y="363" width="295" height="207" key="Github.ShareDialog/72.27.1528.873@72.27.1528.873" timestamp="1605702018697" />
+    <state x="627" y="143" width="407" height="647" key="Github.UntrackedFilesDialog" timestamp="1605702028021">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="627" y="143" width="407" height="647" key="Github.UntrackedFilesDialog/72.27.1528.873@72.27.1528.873" timestamp="1605702028021" />
+    <state x="431" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1605701880504">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="431" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1528.873@72.27.1528.873" timestamp="1605701880504" />
+  </component>
+</project>
